@@ -1,6 +1,6 @@
 public class Grade {
     public static String calculate(int score) {
-        if (score >= 85) {
+        if (score >= 90) {
             return "A";
         } else if (score >= 70) {
             return "B";
